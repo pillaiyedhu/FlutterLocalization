@@ -1,0 +1,8 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld":{
+        "description":"Greetings"
+    },
+
+    "name": "Hello Yedhu"
+}
